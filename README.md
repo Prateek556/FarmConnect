@@ -25,6 +25,6 @@ We welcome contributions from the open-source community to enhance the FarmConne
 We extend our gratitude to the open-source community, and various libraries and frameworks that have made the development of FarmConnect possible.
 
 ## Contact
-For any questions, feedback, or support, please reach out to our team at rishujain0721@gmail.com, sk4sakar@gmail.com, tyagiharsh607@gmail.com.
+For any questions, feedback, or support, please reach out to prateekgupta05062000@gmail.com.
 
 Let's revolutionize the way farmers and consumers connect with FarmConnect!
